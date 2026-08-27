@@ -1,58 +1,46 @@
-<div align="center">
+﻿# EG 13 Sprint 2
 
-# 🧠 EG-13 Sprint 2 — Coding Challenges
+## Overview
+This project is part of my full-stack web development journey. Built with modern technologies and best practices.
 
-### *10 JavaScript Function Problems*
+## Features
+- Clean, responsive user interface
+- Modern JavaScript (ES6+) and React
+- RESTful API integration
+- Secure authentication system
+- Performance optimized
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=node.js&logoColor=white)
+## Tech Stack
+| Layer | Technology |
+|-------|-----------|
+| Frontend | React.js, HTML5, CSS3 |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, Mongoose |
+| Auth | JWT, bcrypt |
+| Tools | Git, VS Code, Postman |
 
-</div>
+## Getting Started
 
----
+### Prerequisites
+- Node.js (v18+)
+- npm or yarn
+- MongoDB
 
-## 📖 Overview
-
-Sprint 2 coding assignment containing **10 JavaScript function solutions** covering string manipulation, arrays, and object operations.
-
----
-
-## 📋 Problems
-
-| # | Problem | Category |
-|---|---------|----------|
-| 1 | **Reverse String** | String Manipulation |
-| 2 | **Find Maximum** | Array |
-| 3 | **Palindrome Check** | String |
-| 4 | **Sum Array** | Array |
-| 5 | **Count Vowels** | String |
-| 6 | **Two Sum** | Array / Hash Map |
-| 7 | **Flatten Array** | Array / Recursion |
-| 8 | **Group Anagrams** | String / Hash Map |
-| 9 | **Longest Substring Without Repeating** | String / Sliding Window |
-| 10 | **Deep Clone Object** | Object / Recursion |
-
----
-
-## 🚀 Getting Started
-
+### Installation
 ```bash
 git clone https://github.com/sojibahmedshorif25-ai/EG-13_Sprint-2.git
-node EG-13_Sprint-2_PS.js
+cd EG-13_Sprint-2
+npm install
+cp .env.example .env
+npm start
 ```
 
----
+## Contributing
+Pull requests are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## 👨‍💻 Author
+## License
+[MIT](LICENSE) Â© Sojib Ahmed
 
-**Sojib Ahmed**
-
-[![GitHub](https://img.shields.io/badge/GitHub-sojibahmedshorif25--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it impressive!**
-
-</div>
+## Author
+**Sojib Ahmed** | Full Stack Developer
+- GitHub: [@sojibahmedshorif25-ai](https://github.com/sojibahmedshorif25-ai)
